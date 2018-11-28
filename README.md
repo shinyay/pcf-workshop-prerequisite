@@ -65,6 +65,29 @@ $ cf version
 cf バージョン 6.40.1+85d04488a.2018-10-31
 ```
 
+#### Pivotal Cloud Foundry へのログイン
+P
+
+`cf login -a api.run.pivotal.io`
+
+```
+API エンドポイント: api.run.pivotal.io
+
+Email> syanagihara@pivotal.io
+
+Password>
+認証中です...
+OK
+
+組織 syanagihara-org をターゲットにしました
+スペース development をターゲットにしました
+
+API エンドポイント:   https://api.run.pivotal.io (API バージョン: 2.126.0)
+ユーザー:             syanagihara@pivotal.io
+組織:                 syanagihara-org
+スペース:             development
+```
+
 ### Git
 #### Gitクライアント
 ##### MacOS
