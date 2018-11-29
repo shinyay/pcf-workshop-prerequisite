@@ -13,6 +13,14 @@
 
 
 ## 手順 / 解説
+以下のツール/環境を必要に応じてします。
+- Java 環境
+- HTTP リクエストを発行できるツール (cURL コマンドなど)
+- Git
+- GitHub アカウント
+- Cloud Foundry CLI
+- [Pivotal Web Services アカウント](https://github.com/shinyay/pcf-workshop-prerequisite-pws/blob/master/README.md)
+
 ### Java SE Development Kit
 下記サイトからプラットフォームに応じた JDK をダウンロードし、インストールを行います。
 - [Java SE Development Kit 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
